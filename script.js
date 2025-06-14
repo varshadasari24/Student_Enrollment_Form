@@ -1,4 +1,4 @@
-const jpdbBaseURL = "http://api.login2explore.com:5577";
+const jpdbBaseURL = "https://api.login2explore.com:5577";
 const jpdbIRL = "/api/irl";
 const jpdbIML = "/api/iml";
 const dbName = "SCHOOL-DATABASE";
